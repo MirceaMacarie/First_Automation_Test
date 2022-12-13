@@ -29,7 +29,7 @@ The main purpose of this automation project is to develop my automation testing 
 
 
 ## :pushpin: Web support :link:
-As support, I used https://www.emag.ro/ website for these tests.
+As support, I used **the website https://www.emag.ro/** for these tests.
 
 
 
@@ -37,7 +37,7 @@ As support, I used https://www.emag.ro/ website for these tests.
 
 
 ## :pushpin: Testing objects :microscope:
-The suite of basic automated tests was written to check different functional and non-functional aspects or methods of https://www.emag.ro/ website.
+The suite of basic automated tests was written **to check different functional and non-functional aspects or methods** of https://www.emag.ro/ website.
 
 
 
