@@ -41,9 +41,18 @@ The suite of basic automated tests was written **to check different functional a
 
 
 
+
+
+
+## :pushpin: Demo video of the Automation test :clapper:
+A **short video** on how this automated test works and what are the checked points.
+
+
+https://user-images.githubusercontent.com/115346533/207315859-f7c44c6f-7424-432a-aaee-5f9499eb60af.mp4
+
+
+
 ------
-
-
 
 
 
