@@ -37,7 +37,7 @@ As support, I used **the website https://www.emag.ro/** for these tests.
 
 
 
-## :pushpin: Testing objects :microscope:
+## :pushpin: Testing objectives :microscope:
 The suite of basic automated tests was written **to check different functional and non-functional aspects or methods** of https://www.emag.ro/ website.
 
 
