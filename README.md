@@ -28,14 +28,12 @@ The main purpose of this automation project is to develop my automation testing 
 
 
 
-
 ## :pushpin: Setup and installation :hammer:
 1. The first time I created a remote repository on GitHub, then a local repository on my computer.
 2. In the project's local folder, I installed the Webdriver.io automatic testing framework from the Command Terminal, by executing the command: "npm init wdio .".
 3. Before the final installation of the drivers required for automated testing, I had to configure Webdriver.io by choosing certain options in the form in Terminal: selecting the base URL, using Google Chrome with chromedriver, setting the specific location where the files are located of the JavaScript test code ("./test/specs/**/*.js"), changing the command to run the test in the configuration file to "npm test".
 4. After we have finished installing the necessary files, I open a JS code file in the "test/specs" folder and add the unitary organized test suite with proper names for all the tests in it, following the documentation of the Webdriver.io framework.
 5. The automated test suite is executed by running the "npm test" command in the Command Terminal.
-
 
 
 
